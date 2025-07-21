@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lists Example</title>
+</head>
+<body>
+    <h2>My Top 3 Favorite Movies</h2>
+    <ol>
+        <li>Movie 1</li>
+        <li>Movie 2</li>
+        <li>Movie 3</li>
+    </ol>
+    <h2>My Favorite Hobbies</h2>
+    <ul>
+        <li>Badminton</li>
+        <li>Painting</li>
+        <li>Sleeping</li>
+    </ul>
+    <h2>Tech Stack</h2>
+    <ul>
+        <li>Programming Languages
+            <ul>
+                <li>Java</li>
+                <li>Python</li>
+                <li>JS</li>
+            </ul>
+        </li>
+        <li>Frameworks
+            <ul>
+                <li>SpringBoot</li>
+                <li>react</li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
