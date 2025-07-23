@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Day 6</title>
+</head>
+<body>
+    <table border="5">
+        <caption >Student Grades</caption>
+        <tr>
+            <th>Name</th>
+            <th>Subject</th>
+            <th>Grade</th>
+        </tr>
+        <tr>
+            <td>Suvidha</td>
+            <td>DAA</td>
+            <td>A</td>
+        </tr>
+        <tr>
+            <td>Akash</td>
+            <td>DBMS</td>
+            <td>A</td>
+        </tr>
+        <tr>
+            <td>Deep</td>
+            <td>CN</td>
+            <td>A</td>
+        </tr>
+        <tr>
+            <td>Harsh</td>
+            <td>OS</td>
+            <td>A</td>
+        </tr>
+           <tr>
+            <td colspan="3">End of Data</td>
+            </tr>
+    </table>
+</body>
+</html>
