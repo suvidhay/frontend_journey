@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Day 4</title>
+</head>
+<body>
+
+  <a href="#about-me">Go to About Me</a><br>
+
+  <a href="https://www.youtube.com/watch?v=Xu-QfE_1ksk">Visit My Favorite Site</a><br>
+
+  <a href="https://www.google.com" target="_self">Google</a><br>
+  <a href="https://www.youtube.com" target="_blank">YouTube</a><br>
+
+  <h2 id="about-me">About Me</h2>
+  <p>Hello....</p>
+
+</body>
+</html>
