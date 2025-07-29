@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Assignment</title>
+</head>
+<body>
+    <table border ="1" cellspacing="0" cellpadding="10" >
+        <caption><b>Product Comparison</b> </caption>
+       
+        <tr>
+            <th>Name</th>
+            <th>Image</th>
+            <th>Feature</th>
+            <th>Price</th>
+            <th>Release Year</th>
+            <th>Company</th>
+            <th>Buy Link</th>
+        </tr>
+        <tr>
+            <td>OnePlus 11</td>
+            <td><img src="https://m.media-amazon.com/images/I/61amb0CfMGL.jpg" width="100"></td>
+            <td>
+                <ul>
+                    <li>Snapdragon 8 Gen 2</li>
+                    <li>120Hz AMOLED Display</li>
+                    <li>Hasselblad Triple Camera</li>
+                </u>
+            <td>  $699</td>
+            <td> 2023</td>
+            <td> OnePlus</td>
+           <td>
+                <a href="https://www.flipkart.com/oneplus-11-5g-eternal-green-128-gb/p/itm668119d115289" target="_blank" >Buy Now</a>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>iPhone 15</td>
+            <td><img src =" https://m.media-amazon.com/images/I/71657TiFeHL.jpg" width="140"></td>
+             <td>
+                <ul>
+                    <li>A16 Bionic chip</li>
+                    <li>Super Retina XDR Display</li>
+                    <li>Dual Camera System</li>
+                </u>
+            <td> $799</td>
+            <td> 2023</td>
+            <td> Apple</td>
+            <td>
+                <a href="https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX2F5QT?th=1" target="_blank" >buy Now</a>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>Samsung S23</td>
+            <td><img src = "https://fotosuraj.com/37596-large_default/samsung-smartphone-galaxy-s23-8gb-128gb-61.jpg" width="100"></td>
+            <td>
+                <ul>
+                    <li>Snapdragon 8 Gen 2</li>
+                    <li>Dynamic AMOLED 2X</li>
+                    <li>Triple Camera System</li>
+                </ul>
+            </td>
+            <td> $749</td>
+            <td> 2023</td>
+            <td> Samsung</td>
+            <td>
+                <a href="https://www.flipkart.com/samsung-galaxy-s23-5g-phantom-black-256-gb/p/itm347e695feffe7" target="_blank" >Buy Now</a>
+                </a>
+            </td>
+        </tr>
+          
+    </table>
+</body>
+</html>
