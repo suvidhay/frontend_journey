@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Day 9</title>
+</head>
+<body>
+
+  <h2>Common Entities</h2>
+  <p>HTML&nbsp;Day 9!</p>
+  <p>Use &lt;tesdt&gt; test &lt;p&gt; testt.</p>
+  <p>Suvidha &amp;suvidha!</p>
+
+  <h2>Special Characters</h2>
+  <p>My name is  &quot;Suvidha!&quot;</p>
+  <p>&copy; 2025 SkillCaptain.</p>
+  <p>The cost is &nbsp;5&euro;</p>
+
+  <h2>Specaial Symbols</h2>
+  <ul>
+    <li>&dollar;10</li>
+    <li>&euro;20</li>
+    <li>&copy; 2025</li>
+  </ul>
+
+</body>
+</html>
